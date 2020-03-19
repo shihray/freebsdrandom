@@ -2,7 +2,6 @@ package freebsdrandom
 
 import (
 	"github.com/seehuhn/mt19937"
-	_ "github.com/seehuhn/mt19937"
 	"math/rand"
 	"testing"
 	"time"
